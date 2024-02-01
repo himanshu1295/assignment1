@@ -1,0 +1,13 @@
+1. Setup Mysql server.
+2. Create Database/Table for Student data (Roll_no,name,phone,marks,favourite_subjects) - Populate with random data atleast 20 records.
+	-Roll_no should not be blank and should autoincrement upon new entry.
+	-Create Triggers to restrict user from dropping/deleting student table.
+	-Name and Phone columns should not accept null/blank values.
+	-Write query to calculate average marks of students.
+	-Write query to calculate unique number of subjects.
+	-Restrict phone number column to 10 digits numeric data.
+	-Restrict marks column to accept values between 0 to 100 only. 
+
+Make a Pdf report of your Queries using MS-Word
+
+Upload this writeup to Git repository.
